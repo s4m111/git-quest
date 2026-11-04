@@ -1,7 +1,7 @@
 # 🛰️ Team Roster
 
-## Cloud crew  (edited on github.com)
+## Cloud crew  
 - cloud-twin-of-s4m111
-## Field agents  (edited from a laptop)
+## Field agents  
 - s4m111
 
