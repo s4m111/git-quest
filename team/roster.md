@@ -1,7 +1,8 @@
 # 🛰️ Team Roster
 
-## Cloud crew  
+## Cloud crew
 - cloud-twin-of-s4m111
-## Field agents  
+
+## Field agents
 - s4m111
 
