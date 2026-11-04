@@ -1,8 +1,2 @@
-##################################################
-   SECURINETS ENIT  ::  OPERATION GIT QUEST
-##################################################
-objective: master version control, leave no trace
-           (except beautiful commits)
 codename: zbanda9lou
-status:   STANDBY
-##################################################
+clearance: LEVEL-5
